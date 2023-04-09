@@ -1,0 +1,1 @@
+git add 하면 stage에 올라가는지 태스트
